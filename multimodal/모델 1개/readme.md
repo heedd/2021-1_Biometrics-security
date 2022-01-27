@@ -22,15 +22,15 @@
     얼굴과 홍채를 하나의 벡터로 만들기 위해 (43, 48, 3)으로 resize  
     Face resize시 보간법의 영향을 최소화하기 위해 transpose  
     크기가 같은 face와 iris 이미지 concatenate하여 저장  <br/>
-    <img src="https://user-images.githubusercontent.com/58112670/151378400-d763555f-62dc-448c-9259-e5e1a28356fe.png" width="300">  <br/>
+    <img src="https://user-images.githubusercontent.com/58112670/151378400-d763555f-62dc-448c-9259-e5e1a28356fe.png" width="300">  <br/><br/>
 
   * 모델 아키텍쳐 :   
     \- CNN기반 딥러닝  
-    <img src="https://user-images.githubusercontent.com/58112670/151377969-e39479ad-90fb-4bf7-9533-566699990225.png" width="300">  <br/>
+    <img src="https://user-images.githubusercontent.com/58112670/151377969-e39479ad-90fb-4bf7-9533-566699990225.png" width="300">  <br/><br/>
 
   * 모델 컴파일 :  
     \- 최적화 함수 : adam  
-    \- loss function : categorical_crossentropy  <br/>
+    \- loss function : categorical_crossentropy  <br/><br/>
     
 ## **성능 :**  
   * 정확도 :   
