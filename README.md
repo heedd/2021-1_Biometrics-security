@@ -9,4 +9,4 @@
 [1. 얼굴인식 (face recognition)](https://github.com/heedd/2021-1_Biometrics-security/tree/master/face)  
 [2. 지문 인식 (fingerprint recognition)](https://github.com/heedd/2021-1_Biometrics-security/tree/master/fingerprint)  
 [3. 홍채 인식 (iris recognition)](https://github.com/heedd/2021-1_Biometrics-security/tree/master/iris)  
-[4. 멀티모달 (face&iris recogniton)](https://github.com/heedd/2021-1_Biometrics-security/tree/master/multimodal)  
+[4. 멀티모달 (multimoodal recogniton; face&iris)](https://github.com/heedd/2021-1_Biometrics-security/tree/master/multimodal)  
