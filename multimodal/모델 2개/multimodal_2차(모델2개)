@@ -975,7 +975,7 @@
     "pred = np.argmax(concat_model.predict([face_test_images,iris_test_images]), axis=1)\n",
     "\n",
     "df = pd.DataFrame({'Image': test_num, 'Answer': pred}).sort_values('Image')\n",
-    "df.to_csv('C:/Users/clari/Desktop/multimodal2/model2/1871081_이희연_멀티모달_모델2개2.csv', index = False)"
+    "df.to_csv('C:/Users/clari/Desktop/multimodal2/model2/멀티모달_모델2개.csv', index = False)"
    ]
   }
  ],
@@ -985,7 +985,7 @@
    "collapsed_sections": [
     "yY2IhYoILJzl"
    ],
-   "name": "1871081_이희연_멀티모달_1차_코드_모델2개_test",
+   "name": "멀티모달_1차_코드_모델2개_test",
    "provenance": [],
    "toc_visible": true
   },
