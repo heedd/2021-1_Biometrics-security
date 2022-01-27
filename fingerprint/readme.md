@@ -7,7 +7,7 @@
 ## **사용 기법 :**
   * 데이터 전처리 :  
     \- 레이블 원핫인코딩  
-    \- 이미지 트리밍  
+    \- 이미지 트리밍 : 불필요한 부분 제거  
     <img src="https://user-images.githubusercontent.com/58112670/151306733-7b0b994e-fcff-4151-bc75-6f46dd740c3b.png" width="300">
 
    
