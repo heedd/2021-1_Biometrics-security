@@ -1,5 +1,5 @@
-# (2021년 4-1) Biometrics Security
-2021-1 생체인증 보안
+# Biometrics Security
+(2021 4-1) 생체인증 보안
 
 ### 딥러닝 실습
 [1. PCA](https://github.com/heedd/2021-1_Biometrics-security/tree/master/PCA)  
